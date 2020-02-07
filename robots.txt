@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://keeyeivoiv.officedepot.ai/sitemap.xml
